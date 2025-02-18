@@ -1,5 +1,6 @@
 import * as bootstrap from "bootstrap";
 import './index.scss';
+import './list.scss';
 
 // 
 document.addEventListener("DOMContentLoaded", () => {
